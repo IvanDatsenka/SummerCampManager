@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a258beb-7795-4ae0-86ae-ad7421fab7ed" name="Changes" comment="correct" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;IvanDatsenka&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/IvanDatsenka/childrenSMCourseProject.git&quot;,
+    &quot;accountId&quot;: &quot;26f7464c-cdb6-4152-bb2f-1e50ebf63e81&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2fUeMnOCgui8ejVLt9ca7mbbCG0" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;extract.method.default.visibility&quot;: &quot;private&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/KURSACH_6SEM/kursachIHopeLastTry/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;sqlserver&quot;
+    ]
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.example.controller" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\KURSACH_6SEM\kursachIHopeLastTry\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\KURSACH_6SEM\kursachIHopeLastTry" />
+      <recent name="D:\KURSACH_6SEM\kursachIHopeLastTry\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.HelloApplication" />
+      <module name="kursachIHopeLastTry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="org.example.Main" />
+      <module name="kursachIHopeLastTry" />
+      <option name="VM_PARAMETERS" value="--module-path &quot;D:\KURSACH_6SEM\javafx-sdk-22.0.1\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConneciton" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TestConneciton" />
+      <module name="kursachIHopeLastTry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestConnection" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.TestConnection" />
+      <module name="kursachIHopeLastTry" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.HelloApplication" />
+      <item itemvalue="Application.TestConneciton" />
+      <item itemvalue="Application.TestConnection" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestConnection" />
+        <item itemvalue="Application.TestConneciton" />
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-28b599e66164-intellij.indexing.shared.core-IU-242.23339.11" />
+        <option value="bundled-js-predefined-d6986cc7102b-5c90d61e3bab-JavaScript-IU-242.23339.11" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a258beb-7795-4ae0-86ae-ad7421fab7ed" name="Changes" comment="" />
+      <created>1713860039356</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1713860039356</updated>
+      <workItem from="1713860040401" duration="2450000" />
+      <workItem from="1713872423486" duration="4226000" />
+      <workItem from="1713881423229" duration="2209000" />
+      <workItem from="1713895826254" duration="3479000" />
+      <workItem from="1713943841258" duration="1013000" />
+      <workItem from="1713944876131" duration="8563000" />
+      <workItem from="1713965704130" duration="3135000" />
+      <workItem from="1713992962520" duration="4544000" />
+      <workItem from="1714035033805" duration="7136000" />
+      <workItem from="1714046007797" duration="2907000" />
+      <workItem from="1714119892478" duration="1907000" />
+      <workItem from="1714124931527" duration="559000" />
+      <workItem from="1714175805492" duration="46000" />
+      <workItem from="1714387111794" duration="10000" />
+      <workItem from="1714452150326" duration="378000" />
+      <workItem from="1714453018556" duration="142000" />
+      <workItem from="1714458096510" duration="80000" />
+      <workItem from="1714591220069" duration="29000" />
+      <workItem from="1714994744463" duration="2000" />
+      <workItem from="1714997992948" duration="6000" />
+      <workItem from="1715024827222" duration="39000" />
+      <workItem from="1715151584260" duration="606000" />
+      <workItem from="1715162965806" duration="43000" />
+      <workItem from="1715164392983" duration="808000" />
+      <workItem from="1715165279658" duration="11441000" />
+      <workItem from="1715190921927" duration="878000" />
+      <workItem from="1715252299180" duration="932000" />
+      <workItem from="1715255685670" duration="1416000" />
+      <workItem from="1715259090692" duration="589000" />
+      <workItem from="1715260018469" duration="4857000" />
+      <workItem from="1715343053940" duration="3825000" />
+      <workItem from="1715353657813" duration="111000" />
+      <workItem from="1715362219514" duration="1849000" />
+      <workItem from="1715418233088" duration="5291000" />
+      <workItem from="1715446950775" duration="1654000" />
+      <workItem from="1715496095615" duration="18382000" />
+      <workItem from="1715586010339" duration="4855000" />
+      <workItem from="1715673505238" duration="6368000" />
+      <workItem from="1715688122699" duration="7035000" />
+      <workItem from="1715704103098" duration="2679000" />
+      <workItem from="1715728212541" duration="10000" />
+      <workItem from="1715768383523" duration="47000" />
+      <workItem from="1715788431230" duration="685000" />
+      <workItem from="1715848351712" duration="2583000" />
+      <workItem from="1715850953298" duration="7172000" />
+      <workItem from="1715882611886" duration="1502000" />
+      <workItem from="1715884131196" duration="2770000" />
+      <workItem from="1715926379138" duration="4059000" />
+      <workItem from="1715930478921" duration="1570000" />
+      <workItem from="1716028288053" duration="12023000" />
+      <workItem from="1716103570501" duration="23689000" />
+      <workItem from="1716284739416" duration="16821000" />
+      <workItem from="1716371288576" duration="610000" />
+      <workItem from="1716447843910" duration="8955000" />
+      <workItem from="1716530791186" duration="2584000" />
+      <workItem from="1716537866496" duration="1816000" />
+      <workItem from="1716564569723" duration="600000" />
+      <workItem from="1716565719366" duration="600000" />
+      <workItem from="1716620084770" duration="10603000" />
+      <workItem from="1716643831800" duration="2235000" />
+      <workItem from="1716812232594" duration="91000" />
+      <workItem from="1716813866802" duration="3000" />
+      <workItem from="1716835425201" duration="3439000" />
+      <workItem from="1716870816054" duration="3236000" />
+      <workItem from="1716998634778" duration="3182000" />
+      <workItem from="1717058659928" duration="3675000" />
+      <workItem from="1717081212985" duration="609000" />
+      <workItem from="1717092566020" duration="6982000" />
+      <workItem from="1717135498919" duration="12650000" />
+      <workItem from="1717155814102" duration="4123000" />
+      <workItem from="1717362434776" duration="3000" />
+      <workItem from="1717366936786" duration="3379000" />
+      <workItem from="1717391259395" duration="5943000" />
+      <workItem from="1717833974480" duration="70000" />
+      <workItem from="1721607606365" duration="55000" />
+      <workItem from="1722370327230" duration="245000" />
+      <workItem from="1722978510289" duration="3000" />
+      <workItem from="1723018579168" duration="26000" />
+      <workItem from="1723071094972" duration="34000" />
+      <workItem from="1723076350580" duration="457000" />
+      <workItem from="1724100821501" duration="7000" />
+      <workItem from="1724752514912" duration="9000" />
+      <workItem from="1726066854498" duration="8000" />
+      <workItem from="1726085964543" duration="14000" />
+      <workItem from="1726230907665" duration="4000" />
+      <workItem from="1726608026067" duration="8000" />
+      <workItem from="1726608988002" duration="11000" />
+      <workItem from="1726695209705" duration="52000" />
+      <workItem from="1726698040400" duration="22000" />
+      <workItem from="1726993077280" duration="14000" />
+      <workItem from="1727083454254" duration="106000" />
+      <workItem from="1727107394692" duration="25000" />
+      <workItem from="1728057759056" duration="244000" />
+      <workItem from="1728058035520" duration="620000" />
+      <workItem from="1728127442628" duration="234000" />
+      <workItem from="1728218736231" duration="626000" />
+      <workItem from="1728219466828" duration="310000" />
+      <workItem from="1728219790902" duration="37000" />
+      <workItem from="1728219965632" duration="12000" />
+      <workItem from="1728220039201" duration="10000" />
+      <workItem from="1728220062447" duration="1065000" />
+      <workItem from="1728223680550" duration="1033000" />
+      <workItem from="1728249005290" duration="1366000" />
+      <workItem from="1728257713934" duration="308000" />
+      <workItem from="1728258057178" duration="309000" />
+      <workItem from="1728258374412" duration="374000" />
+      <workItem from="1728259299320" duration="4000" />
+      <workItem from="1728260345197" duration="1313000" />
+      <workItem from="1728263603255" duration="221000" />
+      <workItem from="1728263834970" duration="746000" />
+      <workItem from="1728264660816" duration="12000" />
+    </task>
+    <task id="LOCAL-00001" summary="correct">
+      <option name="closed" value="true" />
+      <created>1728264457777</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728264457777</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="correct" />
+    <option name="LAST_COMMIT_MESSAGE" value="correct" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="org.example.exception.DaoException" package="org.example.exception" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <pin-to-top-manager>
+      <pinned-members>
+        <PinnedItemInfo parentTag="javafx.scene.control.TextInputControl$TextProperty" memberName="this$0" />
+      </pinned-members>
+    </pin-to-top-manager>
+  </component>
+</project>

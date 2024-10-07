@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.scene.control.RadioButton?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="org.example.controller.EnterController">
+   <children>
+      <Label layoutX="71.0" layoutY="149.0" text="введите имя пользователя" />
+      <Label layoutX="131.0" layoutY="200.0" text="введите пароль" />
+      <TextField fx:id="enterUsername" layoutX="226.0" layoutY="145.0" />
+      <PasswordField fx:id="enterPassword" layoutX="226.0" layoutY="196.0" />
+      <Label contentDisplay="CENTER" layoutX="277.0" layoutY="26.0" prefHeight="75.0" prefWidth="195.0" text="вход" textAlignment="CENTER">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+      <RadioButton fx:id="radioAdminEnterMenu" layoutX="71.0" layoutY="287.0" mnemonicParsing="false" onAction="#radioAdminActive" text="admin" />
+      <RadioButton fx:id="radioUserEnterMenu" layoutX="71.0" layoutY="331.0" mnemonicParsing="false" onAction="#radioUserActive" text="user" />
+      <Button fx:id="enterMenuEnterButton" layoutX="274.0" layoutY="240.0" mnemonicParsing="false" onAction="#onEnterMenuEnterButtonClick" text="войти" />
+      <Button fx:id="backToMainMenuEnterMenuButton" layoutX="472.0" layoutY="348.0" mnemonicParsing="false" onAction="#onBackToMainMenuEnterMenuButtonClick" text="в главное меню" />
+   </children>
+</AnchorPane>
